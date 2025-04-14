@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8055aa075b93d84685443f6fbfec9e4, type: 3}
+  m_Name: Female_MatchingHairAndBones
+  m_EditorClassIdentifier: 
+  _gender: 1
+  _characterView: {fileID: 4833153579651438141, guid: 3dfe114e4d8475545807bfdacc3ff4dc, type: 3}
+  _hairAndBones:
+  - _hairName: bobCut
+    _bonesNames:
+    - BC_SingleStrand1
+    - BobCut2
+  - _hairName: curly
+    _bonesNames:
+    - CurlyBack2
+    - CurlyLeft2
+    - CurlyRight2
+    - CurlyTop1
+  - _hairName: doubleBuns
+    _bonesNames:
+    - DoubleBuns2
+  - _hairName: layers
+    _bonesNames:
+    - Layers_LB2
+    - Layers_LF2
+    - Layers_RB2
+    - Layers_RF2
+  - _hairName: longWaivy
+    _bonesNames:
+    - LW_BackStrand1
+    - LW_FrontStrand1
+    - LW_LeftStrand1
+    - LW_RightStrand1
+  - _hairName: sideBraid
+    _bonesNames:
+    - Sidebraid3
+  - _hairName: towelHead
+    _bonesNames:
+    - Towelhead1

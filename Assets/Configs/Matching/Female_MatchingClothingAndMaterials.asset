@@ -1,0 +1,161 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d0296f627858d44b0531c2a63f48ae, type: 3}
+  m_Name: Female_MatchingClothingAndMaterials
+  m_EditorClassIdentifier: 
+  _gender: 1
+  _characterPfb: {fileID: 4833153579651438141, guid: 3dfe114e4d8475545807bfdacc3ff4dc, type: 3}
+  _clothMaterialMatching:
+  - _clothName: bunnyPajama
+    _materials:
+    - m_AssetGUID: ec68558e619183d458c35ddd2e588c35
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 2a9d7cbd4dee1c345ac783ad4da8772a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 223e92480d4530b47b186f6e291144de
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 9f4cbcd0adda8e54ab1459a5339c4493
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _clothName: cardiganBra
+    _materials:
+    - m_AssetGUID: 9c1685015b1c74a4ba68bb7dacd9c4e9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: ded35191255959b4b9ba18974e38022c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: d19aab391e92d204c82abc8990b042d5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 51e90b1b6d2a17248b49edfea6b0b89a
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _clothName: catSleepers
+    _materials:
+    - m_AssetGUID: 5afc87e30f64cb04687285c77c556762
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 11631c48a803ec44a9bc25b5bd8eac15
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: ded0837396ae2bd4fa606977298b6e35
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: d3e22a0dfb68cd54aadc4b5c09479b70
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _clothName: cropTopPants
+    _materials:
+    - m_AssetGUID: cb2b1bcd5cbb3514da6fe8a22aa7b80c
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: c3722dd2b3990274db805a528e254159
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 2e830eb6b04019041b880b8a907a168b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 15cb2bc9d39e57f4d80d70a8f392b508
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _clothName: fancySet
+    _materials:
+    - m_AssetGUID: ac3daed65e228774bbfd1f87bdeccbc9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 3fc8273042d756140ba5a8338b206648
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: ea9bc7670fe152748a151f7fdb6156a1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 7dbf7e54f2d0c2848af251fa89fc8d17
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _clothName: longTshirt
+    _materials:
+    - m_AssetGUID: 05369ee1480006f4f8ff5aa0cceac1bf
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 6aae22b9dafadab46a2b0b17339190e9
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: fb9251ac2a3679a449f974a62db859ee
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 1e13d03bca4d27c4b8373130c2655b44
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _clothName: regularSet
+    _materials:
+    - m_AssetGUID: d87d9db66a3157d4abe386e459b5950b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: ba1968e2dcdabd945953baed2bb70763
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: fdd89d3853893c74e8fb929b82efbefe
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: ac78127b10ff23e47a2316dff86d15e8
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - _clothName: robe
+    _materials:
+    - m_AssetGUID: 53e0e38ad8b91d0418eafbd17e4ec98f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: a8f32eabf40646244a8105b68b142b10
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: b9b6f98bc09036c40bc029f37c9f09c5
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    - m_AssetGUID: 608c21e07cead444d97ebfa4ec30c388
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

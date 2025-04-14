@@ -1,0 +1,565 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8074fc2a4b69fe043a42be313d4ccc4e, type: 3}
+  m_Name: CharacterDatabase
+  m_EditorClassIdentifier: 
+  characterDatas:
+  - _name: TempName2
+    _type: 1
+    _idleAnimation: anim_idleKiss
+    _accessories:
+      _partName: headphonesCat
+      _materialNames:
+      - mAccessoriesFemale
+    _clothes:
+      _partName: regularSet
+      _materialNames:
+      - mRegularSet 1
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin5
+    _eyelashes:
+      _partName: eyelashes1
+      _materialNames:
+      - mBlack
+    _hair:
+      _partName: doubleBuns
+      _materialNames:
+      - mHair
+      _textureName: tHair20
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: TempName3
+    _type: 1
+    _idleAnimation: anim_idleMuscles
+    _accessories:
+      _partName: headphonesCat
+      _materialNames:
+      - mAccessoriesFemale 1
+    _clothes:
+      _partName: bunnyPajama
+      _materialNames:
+      - mBunnyPajama 2
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin1
+    _eyelashes:
+      _partName: eyelashes2
+      _materialNames:
+      - mBlack
+    _hair:
+      _partName: longWaivy
+      _materialNames:
+      - mHair
+      _textureName: tHair11
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: TempName
+    _type: 1
+    _idleAnimation: anim_idleCrossHands
+    _accessories:
+      _partName: chocker
+      _materialNames:
+      - mAccessoriesFemale
+    _clothes:
+      _partName: bunnyPajama
+      _materialNames:
+      - mBunnyPajama
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin0
+    _eyelashes:
+      _partName: eyelashes1
+      _materialNames: []
+    _hair:
+      _partName: bobCut
+      _materialNames:
+      - mHair
+      _textureName: tHair0
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: TempName1
+    _type: 1
+    _idleAnimation: anim_idleCrossHands
+    _accessories:
+      _partName: glasses
+      _materialNames:
+      - mAccessoriesFemale
+    _clothes:
+      _partName: bunnyPajama
+      _materialNames:
+      - mBunnyPajama 1
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin2
+    _eyelashes:
+      _partName: eyelashes2
+      _materialNames:
+      - mBlack
+    _hair:
+      _partName: curly
+      _materialNames:
+      - mHair
+      _textureName: tHair12
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: TempName9
+    _type: 1
+    _idleAnimation: anim_idleCrossHands
+    _accessories:
+      _partName: sleepingMask
+      _materialNames:
+      - mAccessoriesFemale
+    _clothes:
+      _partName: cardiganBra
+      _materialNames:
+      - mCardiganBra
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin4
+    _eyelashes:
+      _partName: eyelashes1
+      _materialNames: []
+    _hair:
+      _partName: ponytail
+      _materialNames:
+      - mHair
+      _textureName: tHair3
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: TempName12
+    _type: 1
+    _idleAnimation: anim_idleHandwave
+    _accessories:
+      _partName: headphonesCat
+      _materialNames:
+      - mAccessoriesFemale 1
+    _clothes:
+      _partName: cardiganBra
+      _materialNames:
+      - mCardiganBra 3
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin0
+    _eyelashes:
+      _partName: eyelashes2
+      _materialNames: []
+    _hair:
+      _partName: ponytail
+      _materialNames:
+      - mHair
+      _textureName: tHair6
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: TempName321
+    _type: 1
+    _idleAnimation: anim_idleDab
+    _accessories:
+      _partName: glassesRound
+      _materialNames:
+      - mAccessoriesFemale 1
+    _clothes:
+      _partName: bunnyPajama
+      _materialNames:
+      - mBunnyPajama 3
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin3
+    _eyelashes:
+      _partName: eyelashes2
+      _materialNames: []
+    _hair:
+      _partName: layers
+      _materialNames:
+      - mHair
+      _textureName: tHair2
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: TempName4
+    _type: 1
+    _idleAnimation: anim_idleHappy
+    _accessories:
+      _partName: glasses
+      _materialNames:
+      - mAccessoriesFemale 1
+    _clothes:
+      _partName: cardiganBra
+      _materialNames:
+      - mCardiganBra 1
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin2
+    _eyelashes:
+      _partName: eyelashes2
+      _materialNames: []
+    _hair:
+      _partName: sideBraid
+      _materialNames:
+      - mHair
+      _textureName: tHair4
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: TempName56
+    _type: 1
+    _idleAnimation: anim_idleYawn
+    _accessories:
+      _partName: glassesRound
+      _materialNames:
+      - mAccessoriesFemale
+    _clothes:
+      _partName: cardiganBra
+      _materialNames:
+      - mCardiganBra 2
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin1
+    _eyelashes:
+      _partName: None
+      _materialNames:
+      - mBlack
+    _hair:
+      _partName: bobCut
+      _materialNames:
+      - mHair
+      _textureName: tHair1
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: Female10
+    _type: 1
+    _idleAnimation: anim_idleDab
+    _accessories:
+      _partName: None
+      _materialNames:
+      - mAccessoriesFemale
+    _clothes:
+      _partName: catSleepers
+      _materialNames:
+      - mCatSleepers
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin3
+    _eyelashes:
+      _partName: None
+      _materialNames:
+      - mBlack
+    _hair:
+      _partName: bobCut
+      _materialNames:
+      - mHair
+      _textureName: tHair2
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: Female11
+    _type: 1
+    _idleAnimation: anim_idleHappy
+    _accessories:
+      _partName: chocker
+      _materialNames:
+      - mAccessoriesFemale 1
+    _clothes:
+      _partName: catSleepers
+      _materialNames:
+      - mCatSleepers 1
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin0
+    _eyelashes:
+      _partName: None
+      _materialNames:
+      - mBlack
+    _hair:
+      _partName: bobCut
+      _materialNames:
+      - mHair
+      _textureName: tHair3
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: Female12
+    _type: 1
+    _idleAnimation: anim_idleKiss
+    _accessories:
+      _partName: sleepingMask
+      _materialNames:
+      - mAccessoriesFemale 1
+    _clothes:
+      _partName: catSleepers
+      _materialNames:
+      - mCatSleepers 2
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+      - mBlack
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin1
+    _eyelashes:
+      _partName: None
+      _materialNames:
+      - mBlack
+    _hair:
+      _partName: ponytail
+      _materialNames:
+      - mHair
+      _textureName: tHair7
+    _facialHair:
+      _partName: 
+      _materialNames: []
+  - _name: Male1
+    _type: 0
+    _idleAnimation: anim_SillyDance
+    _accessories:
+      _partName: None
+      _materialNames:
+      - mAccessoriesMale
+    _clothes:
+      _partName: robe
+      _materialNames:
+      - mRobeMale 3
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mBlack
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin4
+    _eyelashes:
+      _partName: 
+      _materialNames: []
+    _hair:
+      _partName: curlyFringe
+      _materialNames:
+      - mHair
+      _textureName: tHair0
+    _facialHair:
+      _partName: beard
+      _materialNames:
+      - mHair
+  - _name: Male2
+    _type: 0
+    _idleAnimation: anim_idleHandwave
+    _accessories:
+      _partName: glassesPolice
+      _materialNames:
+      - mAccessoriesMale
+    _clothes:
+      _partName: fancySet
+      _materialNames:
+      - mFancySetMale
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mBlack
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin5
+    _eyelashes:
+      _partName: 
+      _materialNames: []
+    _hair:
+      _partName: curlyFringe
+      _materialNames:
+      - mHair
+      _textureName: tHair6
+    _facialHair:
+      _partName: boxedBeard
+      _materialNames:
+      - mHair
+  - _name: Male3
+    _type: 0
+    _idleAnimation: anim_idleMuscles
+    _accessories:
+      _partName: glassesNerd
+      _materialNames:
+      - mAccessoriesMale 1
+    _clothes:
+      _partName: turtleNeck
+      _materialNames:
+      - mTurtleNeck
+    _face:
+      _partName: Face
+      _materialNames:
+      - mSkin
+      - mBlack
+      - mWhite
+      - mHair
+      - mBlack
+      - mBlush
+    _body:
+      _partName: Body
+      _materialNames:
+      - mSkin
+      _textureName: tSkin2
+    _eyelashes:
+      _partName: 
+      _materialNames: []
+    _hair:
+      _partName: curlyFringe
+      _materialNames:
+      - mHair
+      _textureName: tHair2
+    _facialHair:
+      _partName: mustache
+      _materialNames:
+      - mHair
