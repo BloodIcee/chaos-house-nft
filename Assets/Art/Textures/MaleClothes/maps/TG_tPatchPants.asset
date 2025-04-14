@@ -1,0 +1,193 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93e385b20f6cdf54f89b327c2248de7a, type: 3}
+  m_Name: TG_tPatchPants
+  m_EditorClassIdentifier: 
+  gridColorMode: 1
+  gridColor: {r: 1, g: 1, b: 1, a: 1}
+  gridsList:
+  - handlesPos: 0
+    vLinesOnCanvasGrid: []
+    hLinesOnCanvasGrid: []
+    tg: {fileID: 11400000}
+    gridOnCanvas:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 334.27734
+      height: 275.83008
+    mouseInsideRectPos: {x: 490, y: 329}
+    gridColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridLabel: Texture Rect
+    editGridName: 0
+    isSelected: 0
+    showGridOptions: 1
+    isSelectionLocked: 0
+    isHandleSelected: 0
+    isGridPosLocked: 0
+    isOverlapping: 0
+    handleID: -1
+    vLinesOnTexGrid: 
+    hLinesOnTexGrid: 
+    tintColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    emptySpaceColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridPos: {x: 0, y: 243}
+    gridWidth: 326
+    gridHeight: 269
+    gridColumns: 1
+    gridRows: 1
+    hasEmptySpace: 0
+    isTexPattern: 1
+  - handlesPos: 0
+    vLinesOnCanvasGrid: []
+    hLinesOnCanvasGrid: []
+    tg: {fileID: 11400000}
+    gridOnCanvas:
+      serializedVersion: 2
+      x: 0
+      y: 277.88086
+      width: 334.27734
+      height: 247.11914
+    mouseInsideRectPos: {x: 390, y: 171}
+    gridColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridLabel: Texture Rect
+    editGridName: 0
+    isSelected: 0
+    showGridOptions: 1
+    isSelectionLocked: 0
+    isHandleSelected: 0
+    isGridPosLocked: 0
+    isOverlapping: 0
+    handleID: -1
+    vLinesOnTexGrid: 
+    hLinesOnTexGrid: 
+    tintColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    emptySpaceColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridPos: {x: 0, y: 0}
+    gridWidth: 326
+    gridHeight: 241
+    gridColumns: 1
+    gridRows: 1
+    hasEmptySpace: 0
+    isTexPattern: 1
+  - handlesPos: 1
+    vLinesOnCanvasGrid:
+    - 0
+    - 106.640625
+    hLinesOnCanvasGrid:
+    - 525
+    - 468.60352
+    - 415.2832
+    - 328.125
+    - 206.10352
+    - 109.7168
+    - 0
+    tg: {fileID: 11400000}
+    gridOnCanvas:
+      serializedVersion: 2
+      x: 418.35938
+      y: 0
+      width: 106.640625
+      height: 525
+    mouseInsideRectPos: {x: 380, y: 139}
+    gridColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridLabel: Flat Color Grid
+    editGridName: 0
+    isSelected: 1
+    showGridOptions: 1
+    isSelectionLocked: 0
+    isHandleSelected: 0
+    isGridPosLocked: 0
+    isOverlapping: 0
+    handleID: -1
+    vLinesOnTexGrid: 0000000068000000
+    hLinesOnTexGrid: 00000000370000006b000000c0000000370100009501000000020000
+    tintColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    emptySpaceColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridPos: {x: 408, y: 0}
+    gridWidth: 104
+    gridHeight: 512
+    gridColumns: 1
+    gridRows: 6
+    hasEmptySpace: 0
+    isTexPattern: 0
+  copyList:
+  - handlesPos: 0
+    vLinesOnCanvasGrid: []
+    hLinesOnCanvasGrid: []
+    tg: {fileID: 11400000}
+    gridOnCanvas:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 334.27734
+      height: 275.83008
+    mouseInsideRectPos: {x: 0, y: 0}
+    gridColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridLabel: Texture Rect
+    editGridName: 0
+    isSelected: 0
+    showGridOptions: 1
+    isSelectionLocked: 0
+    isHandleSelected: 0
+    isGridPosLocked: 0
+    isOverlapping: 0
+    handleID: -1
+    vLinesOnTexGrid: 
+    hLinesOnTexGrid: 
+    tintColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    emptySpaceColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridPos: {x: 0, y: 243}
+    gridWidth: 326
+    gridHeight: 269
+    gridColumns: 1
+    gridRows: 1
+    hasEmptySpace: 0
+    isTexPattern: 1
+  texAtlas: {fileID: 0}
+  originTexAtlas: {fileID: 0}
+  originOffset: {x: 325, y: 50}
+  sizeOffset: {x: 13, y: 13}
+  showShortcuts: 0
+  zoomSpeed: 80
+  handleSize: 10
+  canvasBorder: 50
+  panelDefaultWidth: 250
+  sidePanelWidth: 250
+  showPanel: 1
+  drawAxes: 1
+  drawGrid: 1
+  texAtlasSize: {x: 512, y: 512}

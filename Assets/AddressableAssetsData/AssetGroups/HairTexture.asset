@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: HairTexture
+  m_EditorClassIdentifier: 
+  m_GroupName: HairTexture
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 1982fe9c75906fa41aba191b5426f4fe
+  m_SerializeEntries:
+  - m_GUID: e74ea384f5249e9499ee7b7d3348f17b
+    m_Address: tHair0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 972f6728d5ea61b47aac6640f8c68b9f
+    m_Address: tHair1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b3c797ecdf7ef76439ecd43806615ee2
+    m_Address: tHair2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2c749ffdaac75e141af36c18cd41dee3
+    m_Address: tHair3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e6c0426f2ae731548b28675fa7ef5faf
+    m_Address: tHair4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cfb20bb920da9324897121a341320feb
+    m_Address: tHair5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cddb72577fba16349b982b7e2d9237ff
+    m_Address: tHair6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 52bea19bd01591f46a0c4b4ebad84246
+    m_Address: tHair7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18c4b1365ab89ab41b87467226a58236
+    m_Address: tHair8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 68c2e89e0788a684685711942e5e3a60
+    m_Address: tHair9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7a807cf9167d0734caad16036d60d40b
+    m_Address: tHair10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eeeb8268974314e4a9f90cde562dc9fb
+    m_Address: tHair11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6ff5195c1a41ff6499bb0658944fe6be
+    m_Address: tHair12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbc6bd03dc6b4c8408a7de691ec19205
+    m_Address: tHair13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3929ba23ba08e224caadbbdd1c76d670
+    m_Address: tHair14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8d87f1af0f2585443bf1ba749c0e6e38
+    m_Address: tHair15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5711819ceff9c1645a829efe8e32fde1
+    m_Address: tHair16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e958279b0a35bde409c161d7d7701818
+    m_Address: tHair17
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cee2515bd05912d40822dd628baa6474
+    m_Address: tHair18
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dac45fdde232f0443b76682c1de273fc
+    m_Address: tHair19
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 01d5e774b9c2f5d4bab7fe80cd84dc5f
+    m_Address: tHair20
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1dd4c970d897a5e49b3dd4eab0491b7e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bc20e0f9c81653e4897baede722b8c0b, type: 2}
+    - {fileID: 11400000, guid: 365456954394251469a57e68652506a7, type: 2}

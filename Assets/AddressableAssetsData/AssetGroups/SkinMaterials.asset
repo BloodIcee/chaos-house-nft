@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SkinMaterials
+  m_EditorClassIdentifier: 
+  m_GroupName: SkinMaterials
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4432d3b690b24b74ca6276ba95d6821b
+  m_SerializeEntries:
+  - m_GUID: 9eb13255e49ee4941906b99440a420af
+    m_Address: mSkin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1dd4c970d897a5e49b3dd4eab0491b7e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 1cb05d13ecb8b6d46a0dbb2ab09c238d, type: 2}
+    - {fileID: 11400000, guid: 4eb7081e3593ebb4dabade0162630b5a, type: 2}

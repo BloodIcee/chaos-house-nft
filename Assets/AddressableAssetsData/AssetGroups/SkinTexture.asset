@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SkinTexture
+  m_EditorClassIdentifier: 
+  m_GroupName: SkinTexture
+  m_Data:
+    m_SerializedData: []
+  m_GUID: c296fad552ded9b4fbb8b967e6bf52cf
+  m_SerializeEntries:
+  - m_GUID: 0170bde85d02466488ae01bda77e103f
+    m_Address: tSkin5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09a5bba442237eb42912e89074828975
+    m_Address: tSkin4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5abb26f30441944cafe8b93fe34df8d
+    m_Address: tSkin3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c97dca3493fe6e740a11aa117a3a8a73
+    m_Address: tSkin2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 141f5112eb72ffd4cbbba542522245e6
+    m_Address: tSkin0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2be683d5a70343f4691c2c13b4cb2e71
+    m_Address: tSkin1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1dd4c970d897a5e49b3dd4eab0491b7e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 058260e709de53b4cbbe4058011e2383, type: 2}
+    - {fileID: 11400000, guid: d153eb1dac3d43a47997a67b1e771e77, type: 2}

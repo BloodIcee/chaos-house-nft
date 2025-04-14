@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FemaleFaceMaterials
+  m_EditorClassIdentifier: 
+  m_GroupName: FemaleFaceMaterials
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0b4fad135a80f99489176aa94e577f0c
+  m_SerializeEntries:
+  - m_GUID: fbf012c7f93e67a42b5c63564cd321a9
+    m_Address: mBlush
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 474ad772f3825c34fbad171a78219adc
+    m_Address: mWhite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1dd4c970d897a5e49b3dd4eab0491b7e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: e9eee11d417ca864ba896f81e35793cb, type: 2}
+    - {fileID: 11400000, guid: 63264deb03c4b57439bf908238ac266f, type: 2}

@@ -1,0 +1,153 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: FemaleClothesMaterials
+  m_EditorClassIdentifier: 
+  m_GroupName: FemaleClothesMaterials
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2a3a2638bc0f41942aaa8c68b49cf3f1
+  m_SerializeEntries:
+  - m_GUID: d87d9db66a3157d4abe386e459b5950b
+    m_Address: mRegularSet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac3daed65e228774bbfd1f87bdeccbc9
+    m_Address: mFancySet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cb2b1bcd5cbb3514da6fe8a22aa7b80c
+    m_Address: mCropTopPants
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 53e0e38ad8b91d0418eafbd17e4ec98f
+    m_Address: mRobe
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ec68558e619183d458c35ddd2e588c35
+    m_Address: mBunnyPajama
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 05369ee1480006f4f8ff5aa0cceac1bf
+    m_Address: mLongTshirt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5afc87e30f64cb04687285c77c556762
+    m_Address: mCatSleepers
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c1685015b1c74a4ba68bb7dacd9c4e9
+    m_Address: mCardiganBra
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2a9d7cbd4dee1c345ac783ad4da8772a
+    m_Address: mBunnyPajama 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 223e92480d4530b47b186f6e291144de
+    m_Address: mBunnyPajama 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9f4cbcd0adda8e54ab1459a5339c4493
+    m_Address: mBunnyPajama 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ded35191255959b4b9ba18974e38022c
+    m_Address: mCardiganBra 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d19aab391e92d204c82abc8990b042d5
+    m_Address: mCardiganBra 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 51e90b1b6d2a17248b49edfea6b0b89a
+    m_Address: mCardiganBra 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11631c48a803ec44a9bc25b5bd8eac15
+    m_Address: mCatSleepers 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ded0837396ae2bd4fa606977298b6e35
+    m_Address: mCatSleepers 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d3e22a0dfb68cd54aadc4b5c09479b70
+    m_Address: mCatSleepers 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3722dd2b3990274db805a528e254159
+    m_Address: mCropTopPants 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e830eb6b04019041b880b8a907a168b
+    m_Address: mCropTopPants 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 15cb2bc9d39e57f4d80d70a8f392b508
+    m_Address: mCropTopPants 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3fc8273042d756140ba5a8338b206648
+    m_Address: mFancySet 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ea9bc7670fe152748a151f7fdb6156a1
+    m_Address: mFancySet 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dbf7e54f2d0c2848af251fa89fc8d17
+    m_Address: mFancySet 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6aae22b9dafadab46a2b0b17339190e9
+    m_Address: mLongTshirt 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fb9251ac2a3679a449f974a62db859ee
+    m_Address: mLongTshirt 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e13d03bca4d27c4b8373130c2655b44
+    m_Address: mLongTshirt 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ba1968e2dcdabd945953baed2bb70763
+    m_Address: mRegularSet 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fdd89d3853893c74e8fb929b82efbefe
+    m_Address: mRegularSet 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ac78127b10ff23e47a2316dff86d15e8
+    m_Address: mRegularSet 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a8f32eabf40646244a8105b68b142b10
+    m_Address: mRobe 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b9b6f98bc09036c40bc029f37c9f09c5
+    m_Address: mRobe 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 608c21e07cead444d97ebfa4ec30c388
+    m_Address: mRobe 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1dd4c970d897a5e49b3dd4eab0491b7e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 07abcdbf083125245ac9ba06d0c1794d, type: 2}
+    - {fileID: 11400000, guid: 8d9f8ee12af8ada4296c96a4dce6991e, type: 2}

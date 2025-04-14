@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: HairMaterials
+  m_EditorClassIdentifier: 
+  m_GroupName: HairMaterials
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f2fd17489f80b2d4b9a8a6be604d7eb1
+  m_SerializeEntries:
+  - m_GUID: fd46396c76a0d304abb009d13ae9dd7e
+    m_Address: mHair
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1dd4c970d897a5e49b3dd4eab0491b7e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fbd314ddd2454bf4cab0a2d57dd80d86, type: 2}
+    - {fileID: 11400000, guid: 900a438fe377a684b939159a93df4987, type: 2}

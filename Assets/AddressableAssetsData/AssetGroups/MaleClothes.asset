@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: MaleClothes
+  m_EditorClassIdentifier: 
+  m_GroupName: MaleClothes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2ce320d1fd700034d9994292e85198aa
+  m_SerializeEntries:
+  - m_GUID: 967aad5ea33fb56499745d9ebe7a137c
+    m_Address: mFancySetMale
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9e3d569d82d6d14b84178a981c7af47
+    m_Address: mFancySetMale 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5b1609dd47ac5ef43ac4ba43af8eb772
+    m_Address: mFancySetMale 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: efb28ad9e66b55f49bfe81a2c9565a97
+    m_Address: mFancySetMale 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0dc6220326d5c8447acf153866250356
+    m_Address: mHoodie
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ca39cf548a1c67043864717c545e4b1c
+    m_Address: mHoodie 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2bc4f96e43829ac43920cc05f40fde57
+    m_Address: mHoodie 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 13ef1647763463242a36dc13fb9c1a8a
+    m_Address: mHoodie 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 03dcd77c72fdea34a89031718e28cb46
+    m_Address: mOpenShirt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 337bf092d71a52745b489cda8a003f8e
+    m_Address: mOpenShirt 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f25200247a42ebc4a8efc755fb747877
+    m_Address: mOpenShirt 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: c3c16ea826ee3ba4692a372c7c03e8ea
+    m_Address: mOpenShirt 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7dfe0a5fb4f1be94794238304694b8f8
+    m_Address: mPatchPants
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6fa3ca1e15ded1e449ca52862fae5802
+    m_Address: mPatchPants 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9c8c94193eda44f4a8fe431211493901
+    m_Address: mPatchPants 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ab9446c38f4d7e34ba368d7132415dda
+    m_Address: mPatchPants 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ce37d77d59ec6a541937e96e2e27d7da
+    m_Address: mRobeMale 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 459ddaa7e163281418a81be7b33d4e6a
+    m_Address: mRobeMale 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 83a4058d32acfb84ba30bb26d2381f38
+    m_Address: mRobeMale 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7d045718d016d144db8bbac205d834c4
+    m_Address: mRobe_male
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 92d90998164c1de4db33d8d98eb2ce80
+    m_Address: mTanktop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 28138031ae88cf34799643d3c31659cf
+    m_Address: mTanktop 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb236279a210a7a4d9e5866e7b8a68fb
+    m_Address: mTanktop 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 695c334998f92ac449f887e09bdf20cc
+    m_Address: mTanktop 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dbc82a983c0e7a24ca7cf53294a255ce
+    m_Address: mTurtleNeck
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86578041eafdad34db82e051053d6f03
+    m_Address: mTurtleNeck 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6f6ae508a7efa874aab9ef77b18471b9
+    m_Address: mTurtleNeck 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4cce59c41efac214a972ad642b4c8bfa
+    m_Address: mTurtleNeck 3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 86eb0bd8d14adc14eb10d413f80fe3d6
+    m_Address: mUnicornPajama
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 24bb1e073dbb9f94db904edd70363cfc
+    m_Address: mUnicornPajama 1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 883fd95f238a9b248b8175d97a0c3bad
+    m_Address: mUnicornPajama 2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1dd4c970d897a5e49b3dd4eab0491b7e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d4ba31c03ac69c34db982730fcedd695, type: 2}
+    - {fileID: 11400000, guid: 000d32d9ed7e96249a81b1417ef065fe, type: 2}

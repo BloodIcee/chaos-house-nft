@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Idle_Animation
+  m_EditorClassIdentifier: 
+  m_GroupName: Idle_Animation
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b2ba09a6b1aedaa4f891a9c875431dd0
+  m_SerializeEntries:
+  - m_GUID: f366468feeec9dd4ba21e55538ee8803
+    m_Address: anim_idleKiss
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09f79e82afa5132478e4eff2a0413147
+    m_Address: anim_idleHandwave
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8fe7b190fc320ab45a86d5c0028da396
+    m_Address: anim_idleHappy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b03b09d1da525bc4f893b53969cc4e31
+    m_Address: anim_idleYawn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 82fdb2720a2367d49a8b8b8f617ba2de
+    m_Address: anim_idleCrossHands
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 267d6ec5f743ec445a61c079b9f85ec8
+    m_Address: anim_idleMuscles
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 19b007d780a3ef949b8d7d91c89daa71
+    m_Address: anim_SillyDance
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2d0e2ea6ab3fcb0499b38bb867d98dc4
+    m_Address: anim_idleDab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1dd4c970d897a5e49b3dd4eab0491b7e, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 163e66024cd0ff54cbad1e735f83a68b, type: 2}
+    - {fileID: 11400000, guid: f5ff9479226937d42acec758a149ee8e, type: 2}

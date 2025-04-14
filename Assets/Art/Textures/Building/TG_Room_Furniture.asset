@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93e385b20f6cdf54f89b327c2248de7a, type: 3}
+  m_Name: TG_Room_Furniture
+  m_EditorClassIdentifier: 
+  gridColorMode: 1
+  gridColor: {r: 1, g: 0, b: 0, a: 1}
+  gridsList:
+  - handlesPos: 0
+    vLinesOnCanvasGrid:
+    - 0
+    - 25.341797
+    - 50.683594
+    - 76.02539
+    - 101.36719
+    - 126.708984
+    - 152.05078
+    - 177.39258
+    - 202.73438
+    - 228.07617
+    - 253.41797
+    - 278.75977
+    - 304.10156
+    - 329.44336
+    - 354.78516
+    - 380.12695
+    - 405.46875
+    - 430.81055
+    - 456.15234
+    - 481.49414
+    - 506.83594
+    hLinesOnCanvasGrid:
+    - 101.36719
+    - 76.02539
+    - 50.683594
+    - 25.341797
+    - 0
+    tg: {fileID: 11400000}
+    gridOnCanvas:
+      serializedVersion: 2
+      x: 0
+      y: 417.6328
+      width: 506.83594
+      height: 101.36719
+    mouseInsideRectPos: {x: 734, y: -627}
+    gridColor:
+      serializedVersion: 2
+      rgba: 4278190335
+    gridLabel: Flat Color Grid
+    editGridName: 0
+    isSelected: 0
+    showGridOptions: 1
+    isSelectionLocked: 0
+    isHandleSelected: 0
+    isGridPosLocked: 0
+    isOverlapping: 0
+    handleID: -1
+    vLinesOnTexGrid: 0000000019000000320000004b000000640000007d00000096000000af000000c8000000e1000000fa000000130100002c010000450100005e0100007701000090010000a9010000c2010000db010000f4010000
+    hLinesOnTexGrid: 0000000019000000320000004b00000064000000
+    tintColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    emptySpaceColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridPos: {x: 0, y: 0}
+    gridWidth: 500
+    gridHeight: 100
+    gridColumns: 20
+    gridRows: 4
+    hasEmptySpace: 0
+    isTexPattern: 0
+  - handlesPos: 0
+    vLinesOnCanvasGrid: []
+    hLinesOnCanvasGrid: []
+    tg: {fileID: 11400000}
+    gridOnCanvas:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 274.70508
+      height: 385.1953
+    mouseInsideRectPos: {x: 599, y: 262}
+    gridColor:
+      serializedVersion: 2
+      rgba: 4278190335
+    gridLabel: Texture Rect
+    editGridName: 0
+    isSelected: 0
+    showGridOptions: 1
+    isSelectionLocked: 0
+    isHandleSelected: 0
+    isGridPosLocked: 0
+    isOverlapping: 0
+    handleID: -1
+    vLinesOnTexGrid: 
+    hLinesOnTexGrid: 
+    tintColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    emptySpaceColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridPos: {x: 0, y: 132}
+    gridWidth: 271
+    gridHeight: 380
+    gridColumns: 1
+    gridRows: 1
+    hasEmptySpace: 0
+    isTexPattern: 1
+  - handlesPos: 0
+    vLinesOnCanvasGrid: []
+    hLinesOnCanvasGrid: []
+    tg: {fileID: 11400000}
+    gridOnCanvas:
+      serializedVersion: 2
+      x: 280.7871
+      y: 0
+      width: 238.21289
+      height: 386.20898
+    mouseInsideRectPos: {x: 327, y: 248}
+    gridColor:
+      serializedVersion: 2
+      rgba: 4278190335
+    gridLabel: Texture Rect
+    editGridName: 0
+    isSelected: 0
+    showGridOptions: 1
+    isSelectionLocked: 0
+    isHandleSelected: 0
+    isGridPosLocked: 0
+    isOverlapping: 0
+    handleID: -1
+    vLinesOnTexGrid: 
+    hLinesOnTexGrid: 
+    tintColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    emptySpaceColor:
+      serializedVersion: 2
+      rgba: 4294967295
+    gridPos: {x: 277, y: 131}
+    gridWidth: 235
+    gridHeight: 381
+    gridColumns: 1
+    gridRows: 1
+    hasEmptySpace: 0
+    isTexPattern: 1
+  copyList: []
+  texAtlas: {fileID: 2800000, guid: a3c6f9bc0bb87344baf209c893f88810, type: 3}
+  originTexAtlas: {fileID: 0}
+  originOffset: {x: 328, y: 53}
+  sizeOffset: {x: 7, y: 7}
+  showShortcuts: 0
+  zoomSpeed: 80
+  handleSize: 10
+  canvasBorder: 50
+  panelDefaultWidth: 250
+  sidePanelWidth: 250
+  showPanel: 1
+  drawAxes: 1
+  drawGrid: 1
+  texAtlasSize: {x: 512, y: 512}
